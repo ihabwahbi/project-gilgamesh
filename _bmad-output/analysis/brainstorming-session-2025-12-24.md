@@ -34,7 +34,7 @@ After rigorous analysis using First Principles Thinking and Six Thinking Hats, t
 | Can Ihab build it? | ✅ YES — Proven with $1.2M equivalent product built solo |
 | Is there competitive advantage? | ✅ YES — Execution speed + MENA first-mover |
 | Is the target achievable? | ✅ YES — 500 users = 0.0009% of US market |
-| What's the main risk? | ⚠️ User acquisition — mitigated by co-founder partnership |
+| What's the main risk? | ⚠️ User acquisition — mitigated by co-founder Adel |
 | Is it worth the bet? | ✅ YES — Low downside (time), meaningful upside |
 
 ---
@@ -161,7 +161,7 @@ Ihab's product addresses the first three stages, not just application.
 | Competitors copy | 🟡 Medium | Speed + iteration advantage |
 | AI costs eat margins | 🟡 Medium | Optimize prompts, cache |
 | User churn (got job) | 🟡 Medium | Structural — accept it |
-| Founder burnout | 🔴 Critical | Partnership with friend |
+| Founder burnout | 🔴 Critical | Partnership with Adel (shared dev load) |
 
 ### 💚 Green Hat: Creative Strategy
 
@@ -204,11 +204,21 @@ Ihab's product addresses the first three stages, not just application.
 
 ### Co-Founder Structure
 
-| Role | Ihab | Friend |
-|------|------|--------|
-| **Focus** | Technical, Product, AI | Marketing, Growth, Outreach |
-| **Responsibility** | Build the product | Get users to the product |
-| **Accountability** | "Did you ship?" | "Did you post?" |
+**Co-Founder: Adel**
+Adel brings a unique combination of creative thinking, technical aptitude, and marketing savvy. Unlike a purely non-technical co-founder, Adel is dev-savvy and will actively collaborate on product development—injecting ideas, driving feature decisions, and contributing to the build itself alongside marketing efforts.
+
+| Role | Ihab | Adel |
+|------|------|------|
+| **Focus** | Technical Lead, Core AI Engine | Product Strategy, Marketing, Dev Collaboration |
+| **Responsibility** | Build core product, AI workflows | User acquisition, feature ideation, dev support |
+| **Accountability** | "Did you ship the core?" | "Did you ship AND promote?" |
+| **Strengths** | Deep technical execution | Creative vision + technical fluency |
+
+**Why This Partnership Works:**
+- **Dual dev capacity:** Both can code, meaning faster iteration and no bottlenecks
+- **Creative balance:** Adel's fresh perspective challenges Ihab's assumptions
+- **Marketing + building:** Adel can build marketing tools/landing pages himself
+- **Shared language:** Both speak "developer" — no translation needed
 
 ### Alignment Conversation (Required)
 
@@ -267,7 +277,7 @@ Before starting, discuss:
 | Register Australian Pty Ltd | Ihab | Company registered |
 | Co-founder agreement signed | Both | Legal clarity |
 | Set up business banking | Ihab | Bank account active |
-| Domain + branding basics | Friend | Logo, domain, colors |
+| Domain + branding basics | Adel | Logo, domain, colors |
 
 ### Week 3-4: MVP Scope Definition
 | Task | Owner | Deliverable |
@@ -275,8 +285,8 @@ Before starting, discuss:
 | Define MVP feature set | Ihab | Feature spec document |
 | Identify job board APIs to integrate | Ihab | API list (Indeed, LinkedIn, Bayt) |
 | Set up development environment | Ihab | Repo, CI/CD ready |
-| Create landing page | Friend | Live landing page |
-| Start "building in public" content | Friend | First 10 posts |
+| Create landing page | Adel | Live landing page (can build himself) |
+| Start "building in public" content | Adel | First 10 posts |
 
 **MVP Feature Set (Minimum):**
 - [ ] User signup/login (email + Google)
@@ -305,12 +315,12 @@ Before starting, discuss:
 | Week 3 | AI resume generation | Generate tailored resume |
 | Week 4 | AI cover letter + polish | Full flow working |
 
-### Marketing (Friend)
+### Marketing & Dev Support (Adel)
 | Week | Focus | Deliverable |
 |------|-------|-------------|
 | Week 1-2 | Build audience (LinkedIn, Twitter) | 500+ followers |
-| Week 3 | Create waitlist | 100+ signups |
-| Week 4 | User interviews (5-10 people) | Feedback documented |
+| Week 3 | Create waitlist + landing page iterations | 100+ signups |
+| Week 4 | User interviews (5-10 people) + feature ideation | Feedback documented + feature backlog |
 
 **Key Milestone:** Working prototype with end-to-end flow
 
@@ -325,13 +335,13 @@ Before starting, discuss:
 | Week 2 | Beta bug fixes | Stable product |
 | Week 3-4 | Iterate based on feedback | Improved UX |
 
-### Marketing (Friend)
+### Marketing & Dev Support (Adel)
 | Week | Focus | Deliverable |
 |------|-------|-------------|
 | Week 1 | Invite waitlist to beta | 50+ beta users |
-| Week 2 | Collect testimonials | 5+ testimonials |
+| Week 2 | Collect testimonials + help with UX fixes | 5+ testimonials |
 | Week 3 | Product Hunt preparation | Assets ready |
-| Week 4 | Reddit/community seeding | Posts in job subreddits |
+| Week 4 | Reddit/community seeding + onboarding flow dev | Posts in job subreddits |
 
 **Pricing (Beta):**
 | Tier | Price | Applications/month |
@@ -354,11 +364,11 @@ Before starting, discuss:
 | Week 2 | Add 2nd job board | More job sources |
 | Week 3-4 | Feature requests | Top 3 user requests |
 
-### Marketing (Friend)
+### Marketing & Dev Support (Adel)
 | Week | Focus | Deliverable |
 |------|-------|-------------|
 | Week 1 | Product Hunt launch | 500+ upvotes target |
-| Week 2 | Press/blog outreach | 3-5 articles |
+| Week 2 | Press/blog outreach + analytics dashboard dev | 3-5 articles |
 | Week 3-4 | Paid ads experiment ($500) | Test CAC |
 
 **Key Milestone:** 200 users, 50 paying ($600-1,250 MRR)
@@ -373,11 +383,11 @@ Before starting, discuss:
 | Week 1-2 | MENA job boards (Bayt, etc.) | Dual market ready |
 | Week 3-4 | Performance + reliability | 99.9% uptime |
 
-### Marketing (Friend)
+### Marketing & Dev Support (Adel)
 | Week | Focus | Deliverable |
 |------|-------|-------------|
-| Week 1-2 | MENA market launch | Arabic landing page |
-| Week 3-4 | Referral program | Users invite users |
+| Week 1-2 | MENA market launch + Arabic UI support | Arabic landing page + UI strings |
+| Week 3-4 | Referral program (build + promote) | Users invite users |
 
 **MENA Pricing:**
 | Tier | Price (USD) | Price (Local) |
@@ -397,11 +407,11 @@ Before starting, discuss:
 | Week 1-2 | Automation improvements | Better match quality |
 | Week 3-4 | User retention features | Reduce churn |
 
-### Marketing (Friend)
+### Marketing & Dev Support (Adel)
 | Week | Focus | Deliverable |
 |------|-------|-------------|
 | Week 1-2 | Double down on what works | Scale winning channels |
-| Week 3-4 | Partnership outreach | Career coaches, bootcamps |
+| Week 3-4 | Partnership outreach + integration features | Career coaches, bootcamps |
 
 **Key Milestone:** 500+ paying users, $10k MRR 🎯
 
@@ -491,7 +501,7 @@ You have everything you need:
 - ✅ Technical skills (world-class)
 - ✅ Working prototype (agentic-resume-builder)
 - ✅ Market validation (real demand, clear gap)
-- ✅ Co-founder (your friend)
+- ✅ Co-founder (Adel — creative, dev-savvy, marketing ace)
 - ✅ MENA blue ocean opportunity
 - ✅ Australian business structure
 - ✅ Actionable 6-month plan
@@ -503,4 +513,4 @@ You have everything you need:
 *Session completed: December 24, 2025*
 *Techniques used: First Principles Thinking, Six Thinking Hats*
 *Decision: GO*
-*Next action: Co-founder alignment conversation*
+*Next action: Co-founder alignment conversation with Adel*
