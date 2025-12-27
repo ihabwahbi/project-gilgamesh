@@ -52,7 +52,7 @@ From the candidate's side:
 
 ### Needs & Pain Points
 
-- **Fragmentation**: The preparation journey is disjointed â candidates switch between informal chats, disparate materials, multiple providers, and varied platforms.
+- **Fragmentation**: The preparation journey is disjointed — candidates switch between informal chats, disparate materials, multiple providers, and varied platforms.
 - **Overwhelm and uncertainty**: Many candidates struggle to find credible guidance, peer support, and structured pathways to success.
 - **Lack of trusted community**: There is no single platform that brings together mentors, peers, verified content, and tracking of progress aligned with the ADC exam journey.
 - **Business and service gaps**: Smaller course-providers need better tech and distribution; clinics and employers don't have streamlined channels to engage overseas-qualified dentists in the pipeline.
@@ -62,15 +62,15 @@ From the candidate's side:
 
 The proposed "Drawer Organizer" platform aims to transform this context into an empowered journey:
 
-- A central hub where all core elements â community chat, partner matching, provider courses, news/trends, marketplace, gamification â live in one place.
-- Structured support for the entire path: from exam prep â peer & mentor interaction â job transition.
+- A central hub where all core elements — community chat, partner matching, provider courses, news/trends, marketplace, gamification — live in one place.
+- Structured support for the entire path: from exam prep → peer & mentor interaction → job transition.
 - Verified, mentor-led interactions: e.g., chat rooms organised by OSCE case, mentor-verified answers, moderated community rooms.
 - Business ecosystem: course-providers can manage content and bookings; marketplace vendors can list equipment; hospitals and dentists can connect with candidates.
-- Engagement + motivation: gamified badges, peer-matching, monthly contributor prizes, mental-health modules â making the journey supportive and sustainable.
+- Engagement + motivation: gamified badges, peer-matching, monthly contributor prizes, mental-health modules — making the journey supportive and sustainable.
 
 ### References
 
-- ADC "Dentists â Assessment Process" page. (The Australian Dental Council)
+- ADC "Dentists – Assessment Process" page. (The Australian Dental Council)
 - ADC "Initial Assessment" Handbook: eligibility and process. (The Australian Dental Council)
 - ADC "Practical Examination Handbook for Dentists" (Feb 2025).
 - Balasubramanian et al., "Overseas-qualified dentists' experiences and perceptions of the ADC assessment process" (Australian Health Review). (CSIRO PUBLISHING)
@@ -85,7 +85,7 @@ Here's a **funnel-style chart** illustrating the **ADC Candidate Journey**, show
 
 ### Overview
 
-The purpose of this feasibility study is to **assess the practicality, sustainability, and cost-effectiveness** of developing the *Drawer Organizer Platform* â a multi-feature online hub designed to centralize learning, communication, and commerce for **ADC (Australian Dental Council) candidates**.
+The purpose of this feasibility study is to **assess the practicality, sustainability, and cost-effectiveness** of developing the *Drawer Organizer Platform* — a multi-feature online hub designed to centralize learning, communication, and commerce for **ADC (Australian Dental Council) candidates**.
 
 This study serves as an **evidence-based decision document**, guiding the client and potential stakeholders on whether to move forward with the project, and under what conditions it can be implemented most efficiently.
 
@@ -136,9 +136,9 @@ By the end of this study, you will have:
 
 ### References
 
-- Australian Cyber Security Centre (ACSC) â Small Business Cybersecurity Guide
-- Office of the Australian Information Commissioner â Australian Privacy Principles (APPs)
-- Digital Transformation Agency â Cloud and ICT Procurement Framework
+- Australian Cyber Security Centre (ACSC) — Small Business Cybersecurity Guide
+- Office of the Australian Information Commissioner — Australian Privacy Principles (APPs)
+- Digital Transformation Agency — Cloud and ICT Procurement Framework
 
 ---
 
@@ -152,11 +152,11 @@ The Drawer Organizer Platform is designed to integrate multiple core features th
 
 | Feature | MVP | Full v1 | Description |
 |---------|-----|---------|-------------|
-| Chat Rooms | â | â | 48 topic-specific rooms aligned with OSCE cases; color-coded posts (questions, mentor-verified answers, general discussion). |
-| Study Partner Matching | â | â | Candidates can find study partners locally (city/state) or online; includes rating and review system. |
-| Moderation Tools | â | â | Admin/mentor moderation, post approval, content flagging. |
-| Forums / Group Discussions | â | â | Broader topic-based forums for general discussions and peer learning. |
-| Notifications & Alerts | â | â | Real-time updates for chats, session reminders, partner requests. |
+| Chat Rooms | ✅ | ✅ | 48 topic-specific rooms aligned with OSCE cases; color-coded posts (questions, mentor-verified answers, general discussion). |
+| Study Partner Matching | ✅ | ✅ | Candidates can find study partners locally (city/state) or online; includes rating and review system. |
+| Moderation Tools | ✅ | ✅ | Admin/mentor moderation, post approval, content flagging. |
+| Forums / Group Discussions | – | ✅ | Broader topic-based forums for general discussions and peer learning. |
+| Notifications & Alerts | ✅ | ✅ | Real-time updates for chats, session reminders, partner requests. |
 
 ### Courses & Content
 
@@ -164,10 +164,10 @@ The Drawer Organizer Platform is designed to integrate multiple core features th
 
 | Feature | MVP | Full v1 | Description |
 |---------|-----|---------|-------------|
-| Live Sessions | â | â | Providers host live video sessions with embedded recordings; includes scheduling & reminders. |
-| Resource Library | â | â | PDFs, videos, slides uploaded by providers; role-based access for subscribed students. |
-| Course Provider Pages | â | â | Profiles for course providers showing offerings, reviews, availability, and waitlists. |
-| Analytics for Providers | â | â | Attendance tracking, engagement analytics, and performance insights. |
+| Live Sessions | ✅ | ✅ | Providers host live video sessions with embedded recordings; includes scheduling & reminders. |
+| Resource Library | ✅ | ✅ | PDFs, videos, slides uploaded by providers; role-based access for subscribed students. |
+| Course Provider Pages | – | ✅ | Profiles for course providers showing offerings, reviews, availability, and waitlists. |
+| Analytics for Providers | – | ✅ | Attendance tracking, engagement analytics, and performance insights. |
 
 ### Marketplace & Commerce
 
@@ -175,9 +175,9 @@ The Drawer Organizer Platform is designed to integrate multiple core features th
 
 | Feature | MVP | Full v1 | Description |
 |---------|-----|---------|-------------|
-| Payment Integration | â | â | Stripe or equivalent for subscriptions, course payments, and marketplace transactions. |
-| Marketplace Listings | â | â | Buying, selling, or swapping dental equipment; includes search, filter, and rating system. |
-| Commission Management | â | â | Automatic calculation of platform commissions per transaction. |
+| Payment Integration | ✅ | ✅ | Stripe or equivalent for subscriptions, course payments, and marketplace transactions. |
+| Marketplace Listings | – | ✅ | Buying, selling, or swapping dental equipment; includes search, filter, and rating system. |
+| Commission Management | – | ✅ | Automatic calculation of platform commissions per transaction. |
 
 ### Gamification & Engagement
 
@@ -185,9 +185,9 @@ The Drawer Organizer Platform is designed to integrate multiple core features th
 
 | Feature | MVP | Full v1 | Description |
 |---------|-----|---------|-------------|
-| Profiles & Badges | â | â | Users earn badges for activities such as attending sessions, completing modules, or contributing verified answers. |
-| Leaderboards / Recognition | â | â | Monthly "Contributor of the Month" prize; progress visualization for motivation. |
-| Points System | â | â | Tracks user engagement across platform actions; integrates with rewards or gamified challenges. |
+| Profiles & Badges | ✅ | ✅ | Users earn badges for activities such as attending sessions, completing modules, or contributing verified answers. |
+| Leaderboards / Recognition | – | ✅ | Monthly "Contributor of the Month" prize; progress visualization for motivation. |
+| Points System | – | ✅ | Tracks user engagement across platform actions; integrates with rewards or gamified challenges. |
 
 ### Mental Health & Support
 
@@ -195,9 +195,9 @@ The Drawer Organizer Platform is designed to integrate multiple core features th
 
 | Feature | MVP | Full v1 | Description |
 |---------|-----|---------|-------------|
-| Resource Page | â | â | Short and full-length videos, guides, and articles on mental health, study strategies, and stress management. |
-| Partner Webinars | â | â | Sessions hosted in collaboration with mental health professionals and community health organizations. |
-| Motivational Tools | â | â | Reminders, checklists, and peer support notifications to keep candidates engaged. |
+| Resource Page | ✅ | ✅ | Short and full-length videos, guides, and articles on mental health, study strategies, and stress management. |
+| Partner Webinars | – | ✅ | Sessions hosted in collaboration with mental health professionals and community health organizations. |
+| Motivational Tools | – | ✅ | Reminders, checklists, and peer support notifications to keep candidates engaged. |
 
 ### Compliance & Moderation
 
@@ -205,10 +205,10 @@ The Drawer Organizer Platform is designed to integrate multiple core features th
 
 | Feature | MVP | Full v1 | Description |
 |---------|-----|---------|-------------|
-| Legal Footers | â | â | Standard footer stating "No exam content â educational guidance only." |
-| Approval Workflow | â | â | News and trend posts require moderator approval before publication. |
-| Data Privacy & Security | â | â | Role-based access, secure storage, and adherence to Australian privacy principles (OAIC). |
-| Anti-Gaming Measures | â | â | Protects integrity of badges, points, and rewards. |
+| Legal Footers | ✅ | ✅ | Standard footer stating "No exam content — educational guidance only." |
+| Approval Workflow | ✅ | ✅ | News and trend posts require moderator approval before publication. |
+| Data Privacy & Security | ✅ | ✅ | Role-based access, secure storage, and adherence to Australian privacy principles (OAIC). |
+| Anti-Gaming Measures | – | ✅ | Protects integrity of badges, points, and rewards. |
 
 ### Summary
 
@@ -216,7 +216,7 @@ The **MVP** focuses on delivering core features that allow candidates to **study
 
 The **Full v1** extends the platform to include **advanced engagement tools, marketplace functionality, detailed analytics, and deeper gamification**, creating a fully integrated and sustainable ecosystem for ADC candidates and providers.
 
-Here's a **bar chart** illustrating the **feature progression** from MVP â Full v1 across all six categories.
+Here's a **bar chart** illustrating the **feature progression** from MVP → Full v1 across all six categories.
 
 It clearly shows how functionality **expands in the full version**, helping stakeholders visualize development priorities and long-term scalability.
 
@@ -228,28 +228,28 @@ The following table summarizes the **feature allocation** between the **Minimum 
 
 | Feature Category | Feature | MVP (Phase 1) | Full v1 (Phase 2) | Description / Notes |
 |------------------|---------|---------------|-------------------|---------------------|
-| Community & Communication | Chat Rooms | â | â | 48 OSCE-topic rooms, color-coded posts (questions, mentor-verified answers, general discussion) |
-| | Study Partner Matching | â | â | Online and local matching by city/state with ratings & reviews |
-| | Moderation Tools | â | â | Admin/mentor moderation, content flagging |
-| | Forums / Group Discussions | â | â | Broader discussion for general topics |
-| | Notifications & Alerts | â | â | Real-time updates for messages, sessions, and partner requests |
-| Courses & Content | Live Sessions | â | â | Embedded live video, scheduling, and session reminders |
-| | Resource Library | â | â | PDFs, videos, slides with role-based access |
-| | Course Provider Pages | â | â | Provider profiles with course listings, reviews, availability, waitlists |
-| | Analytics for Providers | â | â | Attendance and engagement analytics dashboards |
-| Marketplace & Commerce | Payment Integration | â | â | Stripe or equivalent for subscriptions, course payments |
-| | Marketplace Listings | â | â | Buying/selling equipment, search/filter, ratings |
-| | Commission Management | â | â | Automatic commission calculation for platform revenue |
-| Gamification & Engagement | Profiles & Badges | â | â | Badges earned for activities like attending sessions or contributing verified answers |
-| | Leaderboards / Recognition | â | â | Monthly "Contributor of the Month" prize and progress visualization |
-| | Points System | â | â | Tracks engagement across platform actions, linked to rewards |
-| Mental Health & Support | Resource Page | â | â | Guides, videos, and articles on study strategies and mental health |
-| | Partner Webinars | â | â | Sessions with mental health professionals and organizations |
-| | Motivational Tools | â | â | Checklists, reminders, and peer support notifications |
-| Compliance & Moderation | Legal Footers | â | â | Standard footer: "No exam content â educational guidance only" |
-| | Approval Workflow | â | â | Moderator approval for news and trends |
-| | Data Privacy & Security | â | â | Secure storage, role-based access, compliance with Australian Privacy Principles |
-| | Anti-Gaming Measures | â | â | Protects badge/points system integrity |
+| Community & Communication | Chat Rooms | ✅ | ✅ | 48 OSCE-topic rooms, color-coded posts (questions, mentor-verified answers, general discussion) |
+| | Study Partner Matching | ✅ | ✅ | Online and local matching by city/state with ratings & reviews |
+| | Moderation Tools | ✅ | ✅ | Admin/mentor moderation, content flagging |
+| | Forums / Group Discussions | – | ✅ | Broader discussion for general topics |
+| | Notifications & Alerts | ✅ | ✅ | Real-time updates for messages, sessions, and partner requests |
+| Courses & Content | Live Sessions | ✅ | ✅ | Embedded live video, scheduling, and session reminders |
+| | Resource Library | ✅ | ✅ | PDFs, videos, slides with role-based access |
+| | Course Provider Pages | – | ✅ | Provider profiles with course listings, reviews, availability, waitlists |
+| | Analytics for Providers | – | ✅ | Attendance and engagement analytics dashboards |
+| Marketplace & Commerce | Payment Integration | ✅ | ✅ | Stripe or equivalent for subscriptions, course payments |
+| | Marketplace Listings | – | ✅ | Buying/selling equipment, search/filter, ratings |
+| | Commission Management | – | ✅ | Automatic commission calculation for platform revenue |
+| Gamification & Engagement | Profiles & Badges | ✅ | ✅ | Badges earned for activities like attending sessions or contributing verified answers |
+| | Leaderboards / Recognition | – | ✅ | Monthly "Contributor of the Month" prize and progress visualization |
+| | Points System | – | ✅ | Tracks engagement across platform actions, linked to rewards |
+| Mental Health & Support | Resource Page | ✅ | ✅ | Guides, videos, and articles on study strategies and mental health |
+| | Partner Webinars | – | ✅ | Sessions with mental health professionals and organizations |
+| | Motivational Tools | – | ✅ | Checklists, reminders, and peer support notifications |
+| Compliance & Moderation | Legal Footers | ✅ | ✅ | Standard footer: "No exam content — educational guidance only" |
+| | Approval Workflow | ✅ | ✅ | Moderator approval for news and trends |
+| | Data Privacy & Security | ✅ | ✅ | Secure storage, role-based access, compliance with Australian Privacy Principles |
+| | Anti-Gaming Measures | – | ✅ | Protects badge/points system integrity |
 
 ### Key Takeaways
 
@@ -269,7 +269,7 @@ The recommended architecture ensures:
 
 - **Scalability**: Handles hundreds to thousands of simultaneous users.
 - **Security & Compliance**: Meets Australian data protection requirements (OAIC Privacy Principles).
-- **Flexibility**: Supports phased MVP â Full v1 development.
+- **Flexibility**: Supports phased MVP → Full v1 development.
 - **Integration-ready**: Can incorporate third-party APIs for video, chat, payments, and analytics.
 
 ### Architecture Components
@@ -287,95 +287,95 @@ The recommended architecture ensures:
 ### High-Level Architecture Diagram
 
 ```
-ââââââââââââââââââââââââââââââ
-â     USERS / CLIENTS        â
-ââââââââââââââââââââââââââââââ
-â â¢ Candidates               â
-â â¢ Mentors                  â
-â â¢ Course Providers         â
-â â¢ Admins                   â
-ââââââââââââââ¬ââââââââââââââââ
-             â
-             â¼
-ââââââââââââââââââââââââââââââââââ
-â       FRONTEND LAYER           â
-ââââââââââââââââââââââââââââââââââ
-â â¢ Web App (React / Vue.js)     â
-â â¢ Mobile App (React Native)    â
-â â¢ UI: Chat, Courses, Library   â
-â â¢ Responsive Design            â
-ââââââââââââââ¬ââââââââââââââââââââ
-             â
-             â¼
-ââââââââââââââââââââââââââââââââââââââââââ
-â      API / INTEGRATION LAYER           â
-ââââââââââââââââââââââââââââââââââââââââââ
-â â¢ REST / GraphQL APIs                  â
-â â¢ 3rd-Party Integrations:              â
-â   - Zoom / Jitsi (Live Video)          â
-â   - Twilio / Stream (Chat)             â
-â   - Stripe / PayPal (Payments)         â
-â   - SendGrid (Email & Notifications)   â
-ââââââââââââââ¬ââââââââââââââââââââââââââââ
-             â
-             â¼
-ââââââââââââââââââââââââââââââââââââââââââââââââââââ
-â        BACKEND / APPLICATION LAYER               â
-ââââââââââââââââââââââââââââââââââââââââââââââââââââ
-â â¢ Authentication & Role Management               â
-â â¢ Study Partner Matching                         â
-â â¢ Course & Session Management                    â
-â â¢ Resource Library Management                    â
-â â¢ Chat & Community Features                      â
-â â¢ Marketplace & Payment Logic                    â
-â â¢ Gamification (Badges, Points)                  â
-â â¢ Analytics & Reports                            â
-â â¢ Moderation & Content Approval Workflow         â
-ââââââââââââââ¬ââââââââââââââââââââââââââââââââââââââ
-             â
-             â¼
-ââââââââââââââââââââââââââââââââââââââââââââââââââââââ
-â              DATABASE LAYER                        â
-ââââââââââââââââââââââââââââââââââââââââââââââââââââââ
-â â¢ PostgreSQL / MySQL â Structured Data             â
-â â¢ MongoDB â Unstructured Data (Chats, Logs)        â
-â â¢ Redis â Caching                                  â
-ââââââââââââââ¬ââââââââââââââââââââââââââââââââââââââââ
-             â
-             â¼
-ââââââââââââââââââââââââââââââââââââââââââââââââââââââââââ
-â        CLOUD HOSTING / INFRASTRUCTURE LAYER            â
-ââââââââââââââââââââââââââââââââââââââââââââââââââââââââââ
-â â¢ AWS / Google Cloud / Azure                           â
-â â¢ EC2 / S3 / CloudFront (Hosting & CDN)                â
-â â¢ Load Balancing & Auto-scaling                        â
-â â¢ Backups & Storage Management                         â
-ââââââââââââââ¬ââââââââââââââââââââââââââââââââââââââââââââ
-             â
-             â¼
-ââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââ
-â           SECURITY & COMPLIANCE LAYER                      â
-ââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââ
-â â¢ HTTPS / SSL Encryption                                   â
-â â¢ OAuth2 / JWT Authentication                              â
-â â¢ Role-based Access Control                                â
-â â¢ Data Privacy (Australian Privacy Principles)             â
-â â¢ Monitoring & Logs                                        â
-ââââââââââââââ¬ââââââââââââââââââââââââââââââââââââââââââââââââ
-             â
-             â¼
-ââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââ
-â            ANALYTICS & MONITORING LAYER                      â
-ââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââ
-â â¢ Google Analytics / Mixpanel                                â
-â â¢ Platform Usage Reports                                     â
-â â¢ System Health Monitoring (CloudWatch)                      â
-ââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââââ
+┌────────────────────────────┐
+│     USERS / CLIENTS        │
+│────────────────────────────│
+│ • Candidates               │
+│ • Mentors                  │
+│ • Course Providers         │
+│ • Admins                   │
+└────────────┬───────────────┘
+             │
+             ▼
+┌────────────────────────────────┐
+│       FRONTEND LAYER           │
+│────────────────────────────────│
+│ • Web App (React / Vue.js)     │
+│ • Mobile App (React Native)    │
+│ • UI: Chat, Courses, Library   │
+│ • Responsive Design            │
+└────────────┬───────────────────┘
+             │
+             ▼
+┌────────────────────────────────────────┐
+│      API / INTEGRATION LAYER           │
+│────────────────────────────────────────│
+│ • REST / GraphQL APIs                  │
+│ • 3rd-Party Integrations:              │
+│   - Zoom / Jitsi (Live Video)          │
+│   - Twilio / Stream (Chat)             │
+│   - Stripe / PayPal (Payments)         │
+│   - SendGrid (Email & Notifications)   │
+└────────────┬───────────────────────────┘
+             │
+             ▼
+┌──────────────────────────────────────────────────┐
+│        BACKEND / APPLICATION LAYER               │
+│──────────────────────────────────────────────────│
+│ • Authentication & Role Management               │
+│ • Study Partner Matching                         │
+│ • Course & Session Management                    │
+│ • Resource Library Management                    │
+│ • Chat & Community Features                      │
+│ • Marketplace & Payment Logic                    │
+│ • Gamification (Badges, Points)                  │
+│ • Analytics & Reports                            │
+│ • Moderation & Content Approval Workflow         │
+└────────────┬─────────────────────────────────────┘
+             │
+             ▼
+┌────────────────────────────────────────────────────┐
+│              DATABASE LAYER                        │
+│────────────────────────────────────────────────────│
+│ • PostgreSQL / MySQL – Structured Data             │
+│ • MongoDB – Unstructured Data (Chats, Logs)        │
+│ • Redis – Caching                                  │
+└────────────┬───────────────────────────────────────┘
+             │
+             ▼
+┌────────────────────────────────────────────────────────┐
+│        CLOUD HOSTING / INFRASTRUCTURE LAYER            │
+│────────────────────────────────────────────────────────│
+│ • AWS / Google Cloud / Azure                           │
+│ • EC2 / S3 / CloudFront (Hosting & CDN)                │
+│ • Load Balancing & Auto-scaling                        │
+│ • Backups & Storage Management                         │
+└────────────┬───────────────────────────────────────────┘
+             │
+             ▼
+┌────────────────────────────────────────────────────────────┐
+│           SECURITY & COMPLIANCE LAYER                      │
+│────────────────────────────────────────────────────────────│
+│ • HTTPS / SSL Encryption                                   │
+│ • OAuth2 / JWT Authentication                              │
+│ • Role-based Access Control                                │
+│ • Data Privacy (Australian Privacy Principles)             │
+│ • Monitoring & Logs                                        │
+└────────────┬───────────────────────────────────────────────┘
+             │
+             ▼
+┌──────────────────────────────────────────────────────────────┐
+│            ANALYTICS & MONITORING LAYER                      │
+│──────────────────────────────────────────────────────────────│
+│ • Google Analytics / Mixpanel                                │
+│ • Platform Usage Reports                                     │
+│ • System Health Monitoring (CloudWatch)                      │
+└──────────────────────────────────────────────────────────────┘
 ```
 
 ### Recommendations
 
-- **MVP Architecture**: Focus on essential modules â chat, live sessions, resource library, basic user roles, and Stripe integration. Keep third-party dependencies simple.
+- **MVP Architecture**: Focus on essential modules — chat, live sessions, resource library, basic user roles, and Stripe integration. Keep third-party dependencies simple.
 - **Full v1 Architecture**: Add marketplace, gamification, analytics dashboards, advanced moderation, and push notifications. Use modular design for scalability.
 - **Vendor-agnostic Approach**: Choose widely supported APIs and cloud services to reduce lock-in risk.
 
@@ -497,10 +497,10 @@ A modern multi-feature platform such as *Drawer Organizer* requires a blend of r
 
 **Recommended Vendors:**
 
-- **Zoom SDK** â Provides stable, high-quality video integration for courses, mentorships, and group discussions.
-  ð https://marketplace.zoom.us/docs/sdk/native-sdks/
-- **Jitsi Meet API** â Free, open-source alternative suitable for MVP or cost-sensitive phases.
-  ð https://jitsi.org/api/
+- **Zoom SDK** – Provides stable, high-quality video integration for courses, mentorships, and group discussions.
+  🔗 https://marketplace.zoom.us/docs/sdk/native-sdks/
+- **Jitsi Meet API** – Free, open-source alternative suitable for MVP or cost-sensitive phases.
+  🔗 https://jitsi.org/api/
 
 **Recommendation:**
 Use **Jitsi** during MVP for cost efficiency and transition to **Zoom SDK** for v1 to support larger session capacities and advanced moderation tools.
@@ -509,10 +509,10 @@ Use **Jitsi** during MVP for cost efficiency and transition to **Zoom SDK** for 
 
 **Recommended Vendors:**
 
-- **Twilio Conversations API** â Scalable chat, SMS, and push notifications with moderation and message archiving features.
-  ð https://www.twilio.com/conversations
-- **GetStream.io** â Modern, real-time messaging with social feed and activity stream capabilities.
-  ð https://getstream.io/chat/
+- **Twilio Conversations API** – Scalable chat, SMS, and push notifications with moderation and message archiving features.
+  🔗 https://www.twilio.com/conversations
+- **GetStream.io** – Modern, real-time messaging with social feed and activity stream capabilities.
+  🔗 https://getstream.io/chat/
 
 **Recommendation:**
 Adopt **GetStream.io** for a richer social experience within study communities, integrating Twilio later for cross-platform communication (SMS/email).
@@ -521,10 +521,10 @@ Adopt **GetStream.io** for a richer social experience within study communities, 
 
 **Recommended Vendors:**
 
-- **Stripe Payments & Billing** â Industry standard for secure, recurring payments, invoicing, and marketplace transactions.
-  ð https://stripe.com/
-- **PayPal Commerce Platform** â Widely trusted, supports multi-currency transactions and global reach.
-  ð https://www.paypal.com/business/commerce
+- **Stripe Payments & Billing** – Industry standard for secure, recurring payments, invoicing, and marketplace transactions.
+  🔗 https://stripe.com/
+- **PayPal Commerce Platform** – Widely trusted, supports multi-currency transactions and global reach.
+  🔗 https://www.paypal.com/business/commerce
 
 **Recommendation:**
 Start with **Stripe** for its developer-friendly APIs and scalability. Add **PayPal** as an optional payment gateway in full v1 for inclusivity.
@@ -533,10 +533,10 @@ Start with **Stripe** for its developer-friendly APIs and scalability. Add **Pay
 
 **Recommended Vendors:**
 
-- **Amazon Web Services (AWS)** â Provides EC2 (hosting), S3 (storage), CloudFront (CDN), and RDS (databases).
-  ð https://aws.amazon.com/
-- **Google Cloud Platform (GCP)** â Offers integrated AI/ML capabilities for personalization and analytics.
-  ð https://cloud.google.com/
+- **Amazon Web Services (AWS)** – Provides EC2 (hosting), S3 (storage), CloudFront (CDN), and RDS (databases).
+  🔗 https://aws.amazon.com/
+- **Google Cloud Platform (GCP)** – Offers integrated AI/ML capabilities for personalization and analytics.
+  🔗 https://cloud.google.com/
 
 **Recommendation:**
 Use **AWS** as the primary host due to its maturity and documentation. **GCP** can be leveraged later for AI-driven insights (e.g., user behavior or learning trends).
@@ -545,10 +545,10 @@ Use **AWS** as the primary host due to its maturity and documentation. **GCP** c
 
 **Recommended Vendors:**
 
-- **Auth0 by Okta** â Secure, scalable authentication with role-based access and social login options.
-  ð https://auth0.com/
-- **Firebase Authentication** â Ideal for MVP stage due to ease of setup and integration with mobile/web.
-  ð https://firebase.google.com/products/auth
+- **Auth0 by Okta** – Secure, scalable authentication with role-based access and social login options.
+  🔗 https://auth0.com/
+- **Firebase Authentication** – Ideal for MVP stage due to ease of setup and integration with mobile/web.
+  🔗 https://firebase.google.com/products/auth
 
 **Recommendation:**
 Start with **Firebase Authentication** for MVP simplicity, then migrate to **Auth0** for enterprise-grade identity and access management in v1.
@@ -557,12 +557,12 @@ Start with **Firebase Authentication** for MVP simplicity, then migrate to **Aut
 
 **Recommended Vendors:**
 
-- **Google Analytics 4 (GA4)** â Tracks user engagement, traffic sources, and behavior flow.
-  ð https://marketingplatform.google.com/about/analytics/
-- **Mixpanel** â Event-based product analytics for measuring feature usage and retention.
-  ð https://mixpanel.com/
-- **AWS CloudWatch** â Infrastructure-level monitoring, metrics, and alerts.
-  ð https://aws.amazon.com/cloudwatch/
+- **Google Analytics 4 (GA4)** – Tracks user engagement, traffic sources, and behavior flow.
+  🔗 https://marketingplatform.google.com/about/analytics/
+- **Mixpanel** – Event-based product analytics for measuring feature usage and retention.
+  🔗 https://mixpanel.com/
+- **AWS CloudWatch** – Infrastructure-level monitoring, metrics, and alerts.
+  🔗 https://aws.amazon.com/cloudwatch/
 
 **Recommendation:**
 Combine **GA4 + Mixpanel** for user analytics and **CloudWatch** for system monitoring to achieve end-to-end visibility.
@@ -571,10 +571,10 @@ Combine **GA4 + Mixpanel** for user analytics and **CloudWatch** for system moni
 
 **Recommended Vendors:**
 
-- **SendGrid** â Reliable email delivery for transactional and marketing messages.
-  ð https://sendgrid.com/
-- **Firebase Cloud Messaging (FCM)** â Push notifications for web and mobile users.
-  ð https://firebase.google.com/docs/cloud-messaging
+- **SendGrid** – Reliable email delivery for transactional and marketing messages.
+  🔗 https://sendgrid.com/
+- **Firebase Cloud Messaging (FCM)** – Push notifications for web and mobile users.
+  🔗 https://firebase.google.com/docs/cloud-messaging
 
 **Recommendation:**
 Use **SendGrid** for email workflows and **FCM** for push notifications during MVP. Both scale easily with minimal configuration.
@@ -583,13 +583,13 @@ Use **SendGrid** for email workflows and **FCM** for push notifications during M
 
 | Feature Area | MVP Vendor | Full v1 Vendor | Integration Complexity | Monthly Run Cost (USD) | One-time Dev Cost (USD) |
 |--------------|------------|----------------|------------------------|------------------------|------------------------|
-| Video Calls | Jitsi (Open Source) | Zoom SDK | Medium | $50 â $300 (MVP) / $200 â $1,500 (Full v1) | $800 â $2,500 (MVP) / $2,000 â $8,000 (Full v1) |
-| Chat | GetStream | Twilio Conversations | Medium | $50 â $400 (MVP) / $200 â $1,000 (Full v1) | $1,000 â $3,000 (MVP) / $2,500 â $7,000 (Full v1) |
-| Payments | Stripe | Stripe + PayPal | Medium | $20 â $200 (MVP) / $50 â $400 (Full v1) | $500 â $1,500 (MVP) / $1,000 â $3,500 (Full v1) |
-| Hosting | AWS (Basic Tier) | AWS (Scaled Infrastructure) | High | $50 â $300 (MVP) / $500 â $3,000 (Full v1) | $500 â $2,000 (MVP) / $2,000 â $8,000 (Full v1) |
-| Authentication | Firebase Auth | Auth0 | LowâMedium | $0 â $50 (MVP) / $50 â $300 (Full v1) | $300 â $900 (MVP) / $800 â $2,000 (Full v1) |
-| Analytics | Google Analytics 4 (GA4) | GA4 + Mixpanel | Low | $0 â $50 (MVP) / $50 â $400 (Full v1) | $300 â $900 (MVP) / $800 â $2,000 (Full v1) |
-| Email / Notifications | SendGrid + Firebase Cloud Messaging (FCM) | SendGrid + FCM | Low | $10 â $100 (MVP) / $20 â $200 (Full v1) | $200 â $800 (MVP) / $300 â $1,000 (Full v1) |
+| Video Calls | Jitsi (Open Source) | Zoom SDK | Medium | $50 – $300 (MVP) / $200 – $1,500 (Full v1) | $800 – $2,500 (MVP) / $2,000 – $8,000 (Full v1) |
+| Chat | GetStream | Twilio Conversations | Medium | $50 – $400 (MVP) / $200 – $1,000 (Full v1) | $1,000 – $3,000 (MVP) / $2,500 – $7,000 (Full v1) |
+| Payments | Stripe | Stripe + PayPal | Medium | $20 – $200 (MVP) / $50 – $400 (Full v1) | $500 – $1,500 (MVP) / $1,000 – $3,500 (Full v1) |
+| Hosting | AWS (Basic Tier) | AWS (Scaled Infrastructure) | High | $50 – $300 (MVP) / $500 – $3,000 (Full v1) | $500 – $2,000 (MVP) / $2,000 – $8,000 (Full v1) |
+| Authentication | Firebase Auth | Auth0 | Low–Medium | $0 – $50 (MVP) / $50 – $300 (Full v1) | $300 – $900 (MVP) / $800 – $2,000 (Full v1) |
+| Analytics | Google Analytics 4 (GA4) | GA4 + Mixpanel | Low | $0 – $50 (MVP) / $50 – $400 (Full v1) | $300 – $900 (MVP) / $800 – $2,000 (Full v1) |
+| Email / Notifications | SendGrid + Firebase Cloud Messaging (FCM) | SendGrid + FCM | Low | $10 – $100 (MVP) / $20 – $200 (Full v1) | $200 – $800 (MVP) / $300 – $1,000 (Full v1) |
 
 **Interpretation Notes:**
 
@@ -607,7 +607,7 @@ This section evaluates the technical, operational, financial, and legal feasibil
 ### A. Technical Feasibility
 
 **Overview:**
-The proposed system architecture and vendor integrations demonstrate strong technical feasibility. The platform uses proven technologiesâReact, Node.js, AWS/Firebase, and Stripeâthat are reliable, scalable, and supported by large developer communities.
+The proposed system architecture and vendor integrations demonstrate strong technical feasibility. The platform uses proven technologies—React, Node.js, AWS/Firebase, and Stripe—that are reliable, scalable, and supported by large developer communities.
 
 **Key Technical Risks & Mitigation**
 
@@ -677,7 +677,7 @@ The proposed system design supports gradual scalability. As user volume grows, i
 |------|--------|------------|---------------------|
 | Rapid user growth may strain databases or cause latency. | High | Medium | Use load balancing, caching (Redis), and database sharding for scale. |
 | Vendor pricing increases with usage volume. | Medium | High | Monitor usage tiers; plan early negotiations with vendors for enterprise pricing. |
-| Feature creep increasing complexity. | Medium | High | Enforce strict MVP scope and use phased releases (MVP â v1 â v2). |
+| Feature creep increasing complexity. | Medium | High | Enforce strict MVP scope and use phased releases (MVP → v1 → v2). |
 
 **Feasibility Verdict:** *Highly scalable* through modular architecture and cloud infrastructure.
 
@@ -700,9 +700,9 @@ The *Drawer Organizer* platform is **feasible across all dimensions**, provided 
 
 The *Drawer Organizer* platform will be developed through a **phased, milestone-based approach**, allowing for progressive rollout, testing, and scaling. This ensures that core features reach users early, while the platform's technology stack and architecture evolve to support advanced functionality over time.
 
-### Phase 1 â MVP (Minimum Viable Product)
+### Phase 1 – MVP (Minimum Viable Product)
 
-**Timeline:** 2â3 months
+**Timeline:** 2–3 months
 
 **Objective:** Validate concept, attract early adopters, and demonstrate traction.
 
@@ -723,9 +723,9 @@ The *Drawer Organizer* platform will be developed through a **phased, milestone-
 - 50+ active daily users
 - Stable chat and video performance under 100 concurrent users
 
-### Phase 2 â Full Version 1
+### Phase 2 – Full Version 1
 
-**Timeline:** 5â6 months (following MVP success)
+**Timeline:** 5–6 months (following MVP success)
 
 **Objective:** Expand engagement, monetize additional streams, and improve analytics.
 
@@ -745,9 +745,9 @@ The *Drawer Organizer* platform will be developed through a **phased, milestone-
 - 20+ verified providers onboarded
 - At least 30% recurring revenue through subscriptions
 
-### Phase 3 â Long-Term Scaling & Growth
+### Phase 3 – Long-Term Scaling & Growth
 
-**Timeline:** 10â12 months
+**Timeline:** 10–12 months
 
 **Objective:** Scale operations, expand partnerships, and introduce automation and app ecosystem.
 
@@ -772,7 +772,7 @@ The *Drawer Organizer* platform will be developed through a **phased, milestone-
 
 ### A. Summary of Findings
 
-1. The project is **technically feasible** using a hybrid architecture â low-code MVP with gradual transition to a custom stack.
+1. The project is **technically feasible** using a hybrid architecture — low-code MVP with gradual transition to a custom stack.
 2. The ADC candidate community presents a **high-engagement, niche audience** with clear unmet needs.
 3. Primary risks (cost overruns, compliance, and moderation) are **manageable** with phased rollout and vendor selection discipline.
 4. The recommended strategy is **"Launch Lean, Scale Smart."** Begin with MVP for traction and user validation before investing in full v1.
@@ -822,18 +822,18 @@ It highlights the interaction between the **frontend (web app)**, **backend (API
 
 **Key References:**
 
-1. Australian Dental Council (ADC) Official Website â https://www.adc.org.au
-2. Firebase Documentation â https://firebase.google.com/docs
-3. AWS Cloud Architecture Best Practices â https://aws.amazon.com/architecture/
-4. Stripe Integration Guide â https://stripe.com/docs
-5. Twilio Developer Portal â https://www.twilio.com/docs
-6. GetStream Chat SDK â https://getstream.io/chat/docs/
-7. Google Analytics 4 â https://support.google.com/analytics/answer/10089681
-8. Mixpanel Documentation â https://developer.mixpanel.com/
+1. Australian Dental Council (ADC) Official Website – https://www.adc.org.au
+2. Firebase Documentation – https://firebase.google.com/docs
+3. AWS Cloud Architecture Best Practices – https://aws.amazon.com/architecture/
+4. Stripe Integration Guide – https://stripe.com/docs
+5. Twilio Developer Portal – https://www.twilio.com/docs
+6. GetStream Chat SDK – https://getstream.io/chat/docs/
+7. Google Analytics 4 – https://support.google.com/analytics/answer/10089681
+8. Mixpanel Documentation – https://developer.mixpanel.com/
 
 **Assumptions:**
 
-- Target launch: within 6â8 months post-feasibility sign-off.
-- Team size: 4â6 members (Project Manager, Developer, Designer, QA, Marketing).
+- Target launch: within 6–8 months post-feasibility sign-off.
+- Team size: 4–6 members (Project Manager, Developer, Designer, QA, Marketing).
 - MVP infrastructure designed to scale to 5,000 active users.
 - Legal compliance framework aligns with Australian privacy laws (Privacy Act 1988).
